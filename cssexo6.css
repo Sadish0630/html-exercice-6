@@ -1,0 +1,74 @@
+.vert
+{
+    width: 80%;
+    height: 80px;
+    float: left;
+    position: static;
+    background: rgb(83, 204, 113);
+
+}
+.bleu
+{
+    width: 20%;
+    height: 80px;
+    float: right;
+    position: static;
+    background:rgb(33, 122, 196);
+ 
+}
+.rouge
+{
+    width: 30%;
+    height: 240px;
+    float: left;
+    position: static;
+    background:rgb(218, 68, 68); 
+}
+.orange
+{
+    width: 35%;
+    height: 120px;
+    float: left;
+    position: static;
+    background:rgb(224, 107, 38); 
+}
+.gris
+{
+    width: 35%;
+    height: 120px;
+    float: right;
+    position: static;
+    background:rgb(148, 153, 155); 
+}
+.jaune
+{
+    width: 23.33%;
+    height: 120px;
+    float: left;
+    position: static;
+    background:rgb(226, 165, 34); 
+}
+.turquoise
+{
+    width: 23.33%;
+    height: 120px;
+    float: left;
+    position: static;
+    background:rgb(35, 143, 132);   
+}
+.orange-plus
+{
+    width: 23.33%;
+    height: 120px;
+    float: left;
+    position: static;
+    background:rgb(187, 82, 12);  
+}
+.marine
+{
+    width: 100%;
+    height: 320px;
+    float: left;
+    position: static;
+    background:rgb(59, 51, 78);
+}
